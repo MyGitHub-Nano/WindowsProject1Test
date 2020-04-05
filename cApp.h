@@ -3,6 +3,13 @@
 #include "wx/wx.h"
 #include "cMain.h"
 
+//Commentaire en plus
+//Commentaire en plus
+//Commentaire en plus
+//Commentaire en plus
+//Commentaire en plus
+
+
 class cApp : public wxApp
 {
 public:

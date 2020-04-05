@@ -1,5 +1,8 @@
 #include "cApp.h"
 
+//Commentaire en plus
+
+
 wxIMPLEMENT_APP(cApp);
 
 cApp::cApp()
